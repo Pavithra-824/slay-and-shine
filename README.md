@@ -42,17 +42,25 @@ This project aims to simplify that process by offering **condition-based recomme
 - Structuring a React project for maintainability  
 
 ---
-```
+
 ## 📂 Project Structure
+```
 slay-and-shine/
 ├── public/
 ├── src/
-│ ├── components/
-│ ├── App.js
-│ ├── index.js
-│ └── styles.css
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
+├── index.html
 ├── package.json
-└── README.md
+├── package-lock.json
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── eslint.config.js
+├── README.md
+
 ```
 
 ## ▶️ Getting Started (Local Setup)
