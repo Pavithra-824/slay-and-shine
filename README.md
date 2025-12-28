@@ -8,6 +8,9 @@ Built with a focus on **clean UI, conditional rendering, and component reusabili
 ## 🚀 Live Demo
 🔗 https://slay-and-shine.vercel.app
 
+https://github.com/user-attachments/assets/f65d9042-0bf1-4967-a007-7a2f18553400
+
+
 ---
 
 ## 🧩 Problem Statement
